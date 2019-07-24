@@ -12,7 +12,7 @@ public class AmdocsHellorestApiApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		assertTrue(true);
+		assertTrue(false);
 	}
 
 }
